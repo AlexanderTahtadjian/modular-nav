@@ -27,11 +27,6 @@ header {
   background-color: #e2e2e2;
 }
 
-nav {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 ul {
   list-style-type: none;
 }
