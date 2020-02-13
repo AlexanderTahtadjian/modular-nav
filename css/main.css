@@ -48,7 +48,14 @@ a {
   color: #0074d9;
 }
 
-a:hover {
+.current,
+.current:visited {
+  color: #fff;
+  background-color: #0074d9;
+}
+
+a:hover,
+a:focus {
   color: #fff;
   background-color: #0074d9;
 }
