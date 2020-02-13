@@ -29,6 +29,8 @@ header {
 
 nav {
   list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 a {
