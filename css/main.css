@@ -28,9 +28,12 @@ header {
 }
 
 nav {
-  list-style-type: none;
   display: flex;
   flex-wrap: wrap;
+}
+
+ul {
+  list-style-type: none;
 }
 
 a {
