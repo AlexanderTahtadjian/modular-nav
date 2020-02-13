@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: "PT Serif", serif;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -21,4 +21,21 @@ html {
 
 body {
   margin: 0;
+}
+
+header {
+  background-color: #e2e2e2;
+}
+
+nav {
+  list-style-type: none;
+}
+
+a {
+  color: #0074d9;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #0074d9;
 }
